@@ -1,0 +1,19 @@
+//项目初始 先重置浏览器默认样式
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  *::after,
+  *::before {
+    box-sizing: border-box;
+  }
+  
+  a {
+    color: inherit;
+  }
+  
+  button,
+  input {
+    font: inherit;
+  }
